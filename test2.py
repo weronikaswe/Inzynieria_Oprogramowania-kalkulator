@@ -13,3 +13,5 @@ def main():
     powitanie(name)
     print("podaj pierwszą liczbę")
     a=input()
+    print("podaj drugą liczbę")
+    b=input()
