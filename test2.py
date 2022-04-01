@@ -11,3 +11,5 @@ def main():
     print("Hello, podaj swoje imię")
     name=input()
     powitanie(name)
+    print("podaj pierwszą liczbę")
+    a=input()
