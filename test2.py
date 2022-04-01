@@ -15,3 +15,6 @@ def main():
     a=input()
     print("podaj drugą liczbę")
     b=input()
+    suma=dodawanie(a,b)
+    roznica=odejmowanie(a,b)
+    print(f"Suma to {suma}, różnica to {roznica}")
